@@ -1,0 +1,20 @@
+.display-options {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    gap: 20px;
+  }
+
+  .display-options label {
+    font-size: 1rem;
+    margin-right: 10px;
+  }
+
+  .display-options select {
+    padding: 5px;
+    font-size: 0.9rem;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+    outline: none;
+  }
+
