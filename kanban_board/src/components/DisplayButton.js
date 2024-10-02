@@ -1,6 +1,7 @@
-// src/components/DisplayButton.js
+
 import React from 'react';
 import '../styles/display.css';
+
 const DisplayButton = ({ grouping, setGrouping, setSortOption }) => {
   return (
     <div className="display-options">
